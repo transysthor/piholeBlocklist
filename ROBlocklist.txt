@@ -6,3 +6,4 @@ ads.tonica.ro
 ads.forbes.ro
 ads.iw.ro
 afftrk.altex.ro
+analytics.7w.ro
