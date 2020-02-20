@@ -1,6 +1,7 @@
 app.profitshare.ro
 profitshare.ro
 l.profitshare.ro
+t.profitshare.ro
 ads.adsmedia.ro
 ads.tonica.ro
 ads.forbes.ro
