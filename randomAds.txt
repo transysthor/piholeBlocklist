@@ -15,7 +15,10 @@ ad.turn.com
 ad.yieldlab.net
 ad2.360yield.com
 adadvisor.net
+adsmedia.ro
+adspsp.com
 addsearch.com
+adsunflower.com
 ads-cloud.rovio.com
 ads-servebom-com.cdn.ampproject.org
 ads.adap.tv
