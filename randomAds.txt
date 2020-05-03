@@ -1,3 +1,4 @@
+ad-cache.tabarn.app
 ad-delivery.net
 ad-tag.inner-active.mobi
 ad.360yield.com
@@ -15,6 +16,9 @@ ad.turn.com
 ad.yieldlab.net
 ad2.360yield.com
 adadvisor.net
+adash.man.aliyuncs.com
+addstrap-ui.addshoppers.com
+admp-tc-sati.adtlgc.com
 adsmedia.ro
 adspsp.com
 addsearch.com
@@ -72,9 +76,11 @@ ads.vidoomy.com
 ads.yahoo.com
 ads.yieldmo.com
 ads1.icorp.ro
+ads2.gumdropgames.com
 ads2.servebom.com
 ads4.admatic.com.tr
 adsdk.yandex.ru
+adserver-eu.adtech.advertising.com
 adserver-us.adtech.advertising.com
 adserver.adtech.advertising.com
 adserver.adtech.de
@@ -97,3 +103,4 @@ adx.g.doubleclick.net
 adxcreative-dre.dbankcdn.com
 analytics.kidoz.net
 analytics.samsungknox.com
+aktrack.pubmatic.com
