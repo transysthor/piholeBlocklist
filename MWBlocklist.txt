@@ -14,3 +14,4 @@ load.jsecoin.com
 procoding85.com
 th1sib3stway.com
 clevertoys.ro
+simplyhosting.cloud
