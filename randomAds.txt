@@ -100,6 +100,7 @@ adservice.google.de
 adservice.google.ro
 adsmetadata.startappservice.com
 adtrack.appcpi.net
+adx.adform.net
 adx.g.doubleclick.net
 adxcreative-dre.dbankcdn.com
 analytics.kidoz.net
