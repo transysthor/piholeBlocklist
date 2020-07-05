@@ -9,3 +9,5 @@ ads.iw.ro
 afftrk.altex.ro
 analytics.7w.ro
 ad-fashion.ro
+ads.asav.ro
+adservice.google.ro
