@@ -105,4 +105,8 @@ adx.g.doubleclick.net
 adxcreative-dre.dbankcdn.com
 analytics.kidoz.net
 analytics.samsungknox.com
+analytics.myfidevs.io
+analytics.dolansoft.org
+analytics.okazii.ro
+analytics2.m2.ai
 aktrack.pubmatic.com
