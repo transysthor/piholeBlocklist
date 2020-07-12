@@ -21,6 +21,7 @@ addstrap-ui.addshoppers.com
 admp-tc-sati.adtlgc.com
 adsmedia.ro
 adspsp.com
+adsrealpublic.ru
 addsearch.com
 adsunflower.com
 ads-cloud.rovio.com
@@ -49,6 +50,7 @@ ads.fooyoh.com
 ads.forbes.ro
 ads.heyzap.com
 ads.imagistica.com
+ads.incomestore.com
 ads.independent.com.mt
 ads.iw.ro
 ads.lfstmedia.com
@@ -104,6 +106,8 @@ adx.adform.net
 adx.g.doubleclick.net
 adxcreative-dre.dbankcdn.com
 analytics.kidoz.net
+analytics.localytics.com
+analytics.query.yahoo.com
 analytics.samsungknox.com
 analytics.myfidevs.io
 analytics.dolansoft.org
