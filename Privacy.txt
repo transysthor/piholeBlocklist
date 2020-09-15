@@ -25,6 +25,7 @@ restapi.amap.com
 analytics.tiktok.com
 cdn-promote.weebly.com
 control.aps.amap.com
+gllto.glpals.com
 gllto1.glpals.com
 gllto2.glpals.com
 guce.advertising.com
