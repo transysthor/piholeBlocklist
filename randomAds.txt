@@ -105,12 +105,3 @@ adtrack.appcpi.net
 adx.adform.net
 adx.g.doubleclick.net
 adxcreative-dre.dbankcdn.com
-analytics.kidoz.net
-analytics.localytics.com
-analytics.query.yahoo.com
-analytics.samsungknox.com
-analytics.myfidevs.io
-analytics.dolansoft.org
-analytics.okazii.ro
-analytics2.m2.ai
-aktrack.pubmatic.com
