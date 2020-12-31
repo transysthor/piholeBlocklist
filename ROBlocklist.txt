@@ -11,3 +11,4 @@ analytics.7w.ro
 ad-fashion.ro
 ads.asav.ro
 adservice.google.ro
+ro.betano.com
